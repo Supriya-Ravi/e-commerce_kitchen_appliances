@@ -14,7 +14,7 @@ Welcome to the Kitchen Appliance Store project! This e-commerce platform is buil
 
 To get started with the Kitchen Appliance Store, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/kitchen-appliance-store.git`
+1. Clone the repository: `git clone https://github.com/Supriya-Ravi/e-commerce_kitchen_appliances.git`
 2. Navigate to the project directory: `cd cs`
 3. Create a virtual environment: `python -m venv venv`
 4. Activate the virtual environment:
